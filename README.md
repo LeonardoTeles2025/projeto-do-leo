@@ -1,7 +1,7 @@
 # Painel Administrativo de Usuários e Permissões - IDex
 
 ## 🔗 Link do Protótipo
-[Acesse aqui o protótipo navegável no Figma]([COLE_O_SEU_LINK_AQUI](https://www.figma.com/proto/W09GwSzzs3Mk6AanRdzFbc/Painel-Administrativo-de-Usu%C3%A1rios-e-Permiss%C3%B5es---Exerc%C3%ADcio-2-UX?node-id=5-130&t=djYXiDgiHmHgOnki-1))
+[Acesse aqui o protótipo navegável no Figma](https://www.figma.com/proto/W09GwSzzs3Mk6AanRdzFbc/Painel-Administrativo-de-Usu%C3%A1rios-e-Permiss%C3%B5es---Exerc%C3%ADcio-2-UX?node-id=5-130&t=djYXiDgiHmHgOnki-1)
 
 ## 📝 Descrição do Projeto
 Este projeto faz parte do Exercício 02 da disciplina de Interface e Jornada do Usuário. O objetivo foi desenvolver um protótipo de média fidelidade para um sistema complexo de segurança e validação de ID.
